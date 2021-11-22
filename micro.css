@@ -1,13 +1,21 @@
 
 
 #main-doc{
-    display: flex;
+    display: block;
     
+}
+
+.final{
+    display: flex;
 }
 
 #navbar{
     width: 200px;
     padding: 10px;
+}
+
+.main-section > p{
+    width: 500px;
 }
 
 li{
